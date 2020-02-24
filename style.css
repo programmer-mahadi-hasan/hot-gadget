@@ -1,0 +1,79 @@
+.container{
+ margin-bottom: 50px;
+}
+
+.carousel-indicators li {
+  background-color: gray;
+  background-color: orange;
+}
+
+.carousel-indicators .active {
+  background-color: gray;
+}
+
+.bottom{
+  margin-bottom: 10px;
+}
+.buy-now-button{
+  background-color: black;
+   color:#fff;
+   border: none;
+   border-radius: 8px;
+   padding: 9px 25px;
+   cursor: pointer;
+}
+a{
+  color: orange;
+}
+.card{
+ border: none;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px lightgray;
+ text-align: center;
+}
+.title{
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+h2.title {
+  font-size: 35px;
+  position: relative;
+  margin: 0 auto;
+  display: inline-block;
+  margin-bottom: 70px;
+  padding-bottom: 18px;
+}
+h2.title:after {
+  position: absolute;
+  content: "";
+  height: 11px;
+  width: 135px;
+  background: transparent linear-gradient(142deg, #FF9C35 0%, #FFD019 100%) 0% 0% 
+  no-repeat padding-box;
+  border-radius: 10px;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.catagories {
+  padding: 75px 0;
+}
+.cat-img img {
+  width: 200px;
+  margin: 20px;
+  padding: 30px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.cat-img-perfume, .cat-img-shoe {
+  border-radius:  10px;
+}
+.cat-img-bag {
+  border-radius: 10px;
+}
+small{
+  color: black;
+  font-weight: 500;
+}
+
