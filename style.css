@@ -72,8 +72,13 @@ h2.title:after {
 .cat-img-bag {
   border-radius: 10px;
 }
-small{
-  color: black;
-  font-weight: 500;
+.contact-bg {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+  box-shadow: 5px 5px 10px lightgray;
 }
+
 
